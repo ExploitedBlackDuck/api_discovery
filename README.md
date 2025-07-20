@@ -1,6 +1,6 @@
 # AI-Enhanced API Endpoint Discovery Script: Complete Documentation
 
-The **Hybrid API Endpoint Discovery Script** is a robust and intelligent tool engineered for cybersecurity professionals, penetration testers, and security researchers. It innovatively combines traditional wordlist-based enumeration with advanced AI capabilities, powered by Google's Gemini API, to provide a comprehensive and adaptive approach to API reconnaissance.
+The **API Endpoint Discovery Script** is a robust and intelligent tool engineered for cybersecurity professionals, penetration testers, and security researchers. It innovatively combines traditional wordlist-based enumeration with advanced AI capabilities, powered by Google's Gemini API, to provide a comprehensive and adaptive approach to API reconnaissance.
 
 Whether you're performing a black-box assessment, conducting a red team exercise, or augmenting your existing vulnerability discovery workflow, this tool offers a flexible, powerful, and insightful solution.
 
