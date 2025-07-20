@@ -1,9 +1,3 @@
-/axis-cgi/param.cgi
-/axis-cgi/admin/param.cgi
-/axis-cgi/jpeg/image.cgi
-/axis-cgi/rtsp.cgi
-/vapix/applications/application-api/control.cgi
-/vapix/applications/application-api/list.cgi
 api/ads
 api/announcements
 api/api
